@@ -165,7 +165,7 @@ if (buildBtn) {
     const phases = [
       'Hämtar realtidsdata …',
       'Kopplar till vägnätet …',
-      'Bygger dashboarden …',
+      'Bygger din app …',
     ];
 
     let pct = 0;

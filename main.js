@@ -164,7 +164,7 @@ if (buildBtn) {
 
     const phases = [
       'Hämtar realtidsdata …',
-      'Matchar mot vägnätet …',
+      'Kopplar till vägnätet …',
       'Bygger dashboarden …',
     ];
 
